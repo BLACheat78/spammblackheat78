@@ -1,4 +1,5 @@
 spammBlackHeat78
+
 $pkg update && pkg upgrade --
 $pkg install nano ruby figlet --
 $gem install lolcat --
