@@ -12,8 +12,8 @@ $ cd spammblackheat78
 
 $ sh Blackspamm.sh
 
-$ pilih no spamm
 
+pilih no spamm yang kamu ingin kan contoh no : 1  (enter)
 
 spamm sms berulang kali ke nomor yang anda tuju
 
