@@ -6,6 +6,8 @@ $ pkg install python2
 
 $ pkg install php
 
+$ pkg install toilet
+
 $ pkg install nano ruby figlet
 
 $ gem install lolcat
