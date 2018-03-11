@@ -14,6 +14,8 @@ $ gem install lolcat
 
 $ pkg install git
 
+$ git clone https://github.com/BLACheat78/spammblackheat78.git
+
 $ cd spammblackheat78
 
 $ sh Blackspamm.sh
