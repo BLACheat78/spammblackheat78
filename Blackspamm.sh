@@ -1,6 +1,6 @@
 #!/system/xbin/bash
 clear
-figlet -f mini "ALL Spamm BlacK Heat78" | lolcat
+figlet -f mini "Spamm BlacK Heat78" | lolcat
 sleep 1
 echo "\033[30;1m By. Blackheat78"
 sleep 1
